@@ -1,2 +1,5 @@
-# calculadora-de-media-javagraphic
+# Calculadora de Médias 
+
  Calculadora de Média feita em java com interface gráfica
+ 
+ 
